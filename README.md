@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Exploring the world of web developement
+
+##### Member of Coding Bootcamp Europe - class#2
+
 <!--
 **glissario/glissario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
